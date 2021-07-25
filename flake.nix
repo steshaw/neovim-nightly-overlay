@@ -2,7 +2,8 @@
   description = "Neovim flake";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    #nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:sternenseemann/nixpkgs/cairo-unconditional-tee";
     flake-compat = { url = "github:edolstra/flake-compat"; flake = false; };
     neovim-flake.url = "github:neovim/neovim?dir=contrib";
     neovim-flake.inputs.nixpkgs.follows = "nixpkgs";

@@ -40,11 +40,11 @@
       },
       "locked": {
         "dir": "contrib",
-        "lastModified": 1627055776,
-        "narHash": "sha256-uwhJCub8IPlWc848xarUe2z9DoJb9ab0R8m0lR6Cn3g=",
+        "lastModified": 1627125518,
+        "narHash": "sha256-0FsL86dSiNDEjPDu9NGYgQ3CVhjQIZktMaZWzHxk+ms=",
         "owner": "neovim",
         "repo": "neovim",
-        "rev": "754ac5a834cb82f73ca552a9a55b90a40f9367f6",
+        "rev": "46009499afbb0232124072d775caa9552d0f71de",
         "type": "github"
       },
       "original": {
@@ -56,16 +56,16 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1626852498,
-        "narHash": "sha256-lOXUJvi0FJUXHTVSiC5qsMRtEUgqM4mGZpMESLuGhmo=",
-        "owner": "nixos",
+        "lastModified": 1624790860,
+        "narHash": "sha256-MgkythYpUqTYA36O7CXUlSC1GdmmfZpoPQtOhSKC1Sg=",
+        "owner": "sternenseemann",
         "repo": "nixpkgs",
-        "rev": "16105403bdd843540cbef9c63fc0f16c1c6eaa70",
+        "rev": "6102c4a326636fe653aad42b9e5cc79db826afa4",
         "type": "github"
       },
       "original": {
-        "owner": "nixos",
-        "ref": "nixos-unstable",
+        "owner": "sternenseemann",
+        "ref": "cairo-unconditional-tee",
         "repo": "nixpkgs",
         "type": "github"
       }
